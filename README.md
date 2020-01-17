@@ -15,4 +15,4 @@ Work in progress:
 5. A simple way to create and upload content
 6. Upload content from other official books
 
-Every idea or suggestion is welcom and apreciated.
+Every idea, suggestion, advice, fix or really any help at all will be very apreciated.
